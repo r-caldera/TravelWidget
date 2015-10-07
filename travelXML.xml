@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<destinations>
+	<destination>
+		<location>Peru</location>
+		<description>Come and visit this beautiful land, rich with history of ancient cultures. Bask in the heat of the tropical rainforests or cool off with a trek in the Andes.</description>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<image>images/peru.jpg</image>
+		<vid>iceland.swf</vid>
+	</destination>
+	<destination>
+		<location>Hawaii</location>
+		<description>Explore this tropical paradise's many offerings. Ride the surf, hike the volcanoes, and learn exactly just how pineapples grow.</description>
+		<image>images/hawaii.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<location>Japan</location>
+		<description>Get lost in the nightlife of Tokyo, visit one of the many Shinto shrines, experience the pop culture, or savour the local cuisine.</description>
+		<image>images/japan.jpg</image>
+		<price>$900</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Summer</season>
+		<location>Washington</location>
+		<description>Enjoy a view of the city against the backdrop of Mount Olympus from the Seattle Space Needle or enjoy nature as your journey through the coastal rainforest.</description>
+		<image>images/washington.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Summer</season>
+		<location>Mexico</location>
+		<description>Explore the sea as you scuba dive off the Yucatan Peninsula or visit the ancient pyramids that lie just outside of Mexico City.</description>
+		<image>images/mexico.jpg</image>
+		<price>$800</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Summer</season>
+		<location>India</location>
+		<description>Observe the influence of Vastu Shastra in India's ancient and modern architecture. Indulge yourself in the cuisine, art, music, and films.</description>
+		<image>images/india.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Autumn</season>
+		<location>Croatia</location>
+		<description>Take in the cornucopia of waterfalls in Croatia's Plitvice Lakes National Park. Observe the culturual melting pot of the region as you explore the cities.</description>
+		<image>images/croatia.jpg</image>
+		<price>$1100</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Autumn</season>
+		<location>Scotland</location>
+		<description>Enrich yourself into the Scottish culture as you hike through the beautiful highlands and partake in the local traditions.</description>
+		<image>images/scotland.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Autumn</season>
+		<location>Iceland</location>
+		<description>Explore this dynamic land rife with geothermal topography or indulge yourself in one of the many hot springs Iceland has to offer.</description>
+		<image>images/iceland.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Winter</season>
+		<location>Australia</location>
+		<description>Become amazed with Australia's rich biodiversity. Dive the great barrier reefs or take a hot air balloon over the outback.</description>
+		<image>images/australia.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Winter</season>
+		<location>Morocco</location>
+		<description>Fall in love with this culture as you enjoy the tastes of Berber cuisine during one of the many arts festivals.</description>
+		<image>images/morocco.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+	<destination>
+		<season>Winter</season>
+		<location>Italy</location>
+		<description>Gondola through the beautiful city of Venice, quench your thirst with some of the finest wines, and admire the remnants of the Renaissance.</description>
+		<image>images/italy.jpg</image>
+		<price>$600</price>
+		<reviewer>Lorem Ipsum</reviewer>
+		<review>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</review>
+		<vid></vid>
+	</destination>
+</destinations>
